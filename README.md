@@ -1,2 +1,2 @@
-# ANDREIISTOMIN.github.io
+# Андрей Истомин
 Мой первый сайт
